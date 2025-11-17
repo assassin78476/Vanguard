@@ -1,9 +1,9 @@
 Vanguard Bot
 
-License: Proprietary 
+License: AGPL 3.0
 Contributions: Welcome
 
-Vanguard Bot] is a Discord bot developed and maintained by assassin78476.
+Vanguard  is a Discord bot developed by GlaceYT and remade by assassin78476.
 This project is under a restrictive proprietary license. Any use, modification, or redistribution is strictly controlled by the license holder.
 
 ---
