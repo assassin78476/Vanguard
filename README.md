@@ -86,7 +86,6 @@ node index.js
 <p>🎉 Congratulations! Your bot is now up and running. 🥳</p>
 
 <h3>Additional Resources</h3>
-<p><strong>Video Tutorial:</strong> If you prefer a video guide, watch this YouTube tutorial [ Soon ].</p>
 <p><strong>Common Errors:</strong> Consult the errors section for troubleshooting.</p>
 
 <h3>Useful Files</h3>
