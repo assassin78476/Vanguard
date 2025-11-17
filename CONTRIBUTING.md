@@ -3,6 +3,10 @@ Vanguard Bot
 License: AGPL 3.0
 Contributions: Welcome
 
+🚫 You may not monetize, resell, or claim credit for this project.
+
+✅ You may contribute improvements via pull requests if you agree to the AGPL-3.0 terms.
+
 Vanguard  is a Discord bot developed by GlaceYT and remade by assassin78476.
 This project is under a restrictive proprietary license. Any use, modification, or redistribution is strictly controlled by the license holder.
 
