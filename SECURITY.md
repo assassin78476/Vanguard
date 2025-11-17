@@ -1,9 +1,9 @@
-# Security Policy for [Exact Name of Your Bot]
+# Security Policy for Vanguard
 
 **Maintainer:** `assassin78476`  
-**Repository:** [GitHub](https://github.com/Sentinel-Developement/vanguard-bot-2)  
+**Repository:** [GitHub](https://github.com/assassin78476/Vanguard)  
 
-This document outlines the security policies for **[Vanguard Bott]**.  
+This document outlines the security policies for **Vanguard**.  
 As this project is under a **restrictive proprietary license**, all security matters are handled exclusively by the project maintainer.
 
 ---
@@ -58,6 +58,5 @@ All reports will be handled **confidentially** and acknowledged within 48 hours.
 
 ## Disclaimer
 
-**[Vanguard Bot]** is provided under a **proprietary license**.  
 The maintainer cannot guarantee security for modified versions or forks.  
 Always follow secure practices when running the bot on your server.
